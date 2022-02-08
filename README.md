@@ -14,3 +14,4 @@ If you would like to contribute to the challenges please reading the [contributi
 
 ## Challenges ##
 **1-0** - Basic use of Git
+**2-0** - Sorting
