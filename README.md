@@ -13,5 +13,5 @@ All challenges contain an **instructions.md** and a **help.md** file.
 If you would like to contribute to the challenges please reading the [contribution guide](contributing.md) first to make sure your changes are successful.
 
 ## Challenges ##
-**1-0** - Basic use of Git
+**1-0** - Basic use of Git\
 **2-0** - Sorting
