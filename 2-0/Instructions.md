@@ -5,4 +5,6 @@
 - If you wish you can create additional new methods but do not edit the main or Validate methods.
 - If the method has been updated correctly then it will print a message of "...Success" on the screen.
 
+_No using any libraries as that would be cheating!_
+
 __Good luck and happy coding!__
