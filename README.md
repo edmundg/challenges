@@ -3,6 +3,8 @@ Various coding challenges set for mentoring
 
 Areas Covered:
 - Git
+- Java
+- Python
 
 New challenges to be added
 
@@ -14,4 +16,5 @@ If you would like to contribute to the challenges please reading the [contributi
 
 ## Challenges ##
 **1-0** - Basic use of Git\
-**2-0** - Sorting
+**2-0** - Sorting\
+**3-0** - Trees
