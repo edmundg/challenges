@@ -5,7 +5,7 @@ def sort(unsortedNumbers):
 
 # Do not edit any code below this line --------------------------------------
 def validate(numbers):
-    testNumbers = [0,1,1,1,2,2,2,3,3,4,4,4,4,5,5,5,5,6,6,7,7,7,8]
+    testNumbers = [0,1,1,1,2,2,2,3,3,4,4,4,4,5,5,5,5,5,6,6,7,7,7,8]
 
     if len(testNumbers) != len(numbers):
         return False
