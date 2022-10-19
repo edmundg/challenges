@@ -1,5 +1,6 @@
 # Coding Challenges
-Various coding challenges set for mentoring
+Various coding challenges set by the code monkey club team
+Head over to [code monkey club](https://www.codemonkey.club/jungle-code-challenge-corner/) for more information
 
 Areas Covered:
 - Git
